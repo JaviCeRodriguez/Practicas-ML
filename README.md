@@ -22,6 +22,10 @@ Abrir la consola y ejecutar lo siguiente:
 >> (venv) jupyter notebook 
 ```
 
+## 📚 Datasets utilizados
+
+- [Wine reviews](https://www.kaggle.com/zynicide/wine-reviews): winemag-data-130k-v2.csv
+
 ## ❓ Q&A
 
 - **¿Se puede ejecutar todo sin crear un entorno virtual?** Si, pero tal vez tengas problemas con versiones ya previamente instaladas! Aunque lo dejo a criterio de cada uno y probar 😋
